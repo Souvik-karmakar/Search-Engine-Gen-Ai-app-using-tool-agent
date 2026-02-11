@@ -52,6 +52,9 @@ Add your screen recording here for better visibility:
 - pip install -r requirements.txt
 - streamlit run app.py
 
+## Deployed in Streamlit :-
+check out the link here :- 
+https://search-engine-gen-ai-app-using-tool-agent-kbrz9dsdcs56nruhpuaw.streamlit.app/
 
 ```markdown
 ## 🎬 Application Demo
