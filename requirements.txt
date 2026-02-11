@@ -27,5 +27,6 @@ wikipedia
 validators==0.28.1
 huggingface_hub
 streamlit
-tair==4.2.2
+altair==4.2.2
 duckduckgo-search
+
