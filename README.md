@@ -59,6 +59,6 @@ https://search-engine-gen-ai-app-using-tool-agent-kbrz9dsdcs56nruhpuaw.streamlit
 ```markdown
 ## 🎬 Application Glimpse
 
-![Demo](<img width="960" height="409" alt="image" src="https://github.com/user-attachments/assets/72e3ace3-00fe-4fe0-b340-9b0fc7772233" />
+![Demo](search_enhine.png/>
 )
 
