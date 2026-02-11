@@ -56,9 +56,11 @@ Add your screen recording here for better visibility:
 check out the link here :- 
 https://search-engine-gen-ai-app-using-tool-agent-kbrz9dsdcs56nruhpuaw.streamlit.app/
 
-```markdown
 ## 🎬 Application Glimpse
 
-![Demo](search_engine.png>
-)
+![Search Engine App Demo](search_engine.png)
+
+*A quick view of the Search Engine AI app interface.*
+
+
 
